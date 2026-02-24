@@ -1,0 +1,18 @@
+.flexbox {
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.item {
+    display: block;
+    box-sizing: border-box;
+    width: 33.33%;
+}
+
+.content {
+    background-color: rgb(240, 209, 73);
+    border: 2px solid black;
+    padding: 16px;
+}
